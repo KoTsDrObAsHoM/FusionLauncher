@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'https://launcher.fusioncraft.ru/',
-    web: 'https://launcher.fusioncraft.ru/',
+    ws: 'http://62.122.242.127:1370/',
+    web: 'http://62.122.242.127:1370/',
     // extraToken: token,
 };
 
