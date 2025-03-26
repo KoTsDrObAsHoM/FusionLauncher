@@ -1,6 +1,6 @@
 {
     "name": "aurora-launcher-app",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
@@ -94,8 +94,13 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "KoTsDrObAsHoM",
+                "repo": "FusionLauncher"
+            },
+            {
+              "provider": "generic",
+              "url": "https://launcher.fusioncraft.ru/files/release",
+              "channel": "latest"
             }
         ],
         "directories": {
