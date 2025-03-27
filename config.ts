@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'https://launcher.fusioncraft.ru/files/',
-    web: 'https://launcher.fusioncraft.ru/files/',
+    ws: 'https://launcher.fusioncraft.ru',
+    web: 'https://launcher.fusioncraft.ru',
     publicKey,
 };
 
