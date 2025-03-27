@@ -19,7 +19,7 @@ export const api = {
 export const appPath = '.aurora-launcher';
 
 export const discordRPC = {
-    appId: '1214685301793103902',
+    appId: '0',
     default: {
         firstLineText: 'Тестирую лаунчер',
         secondLineText: 'Чувак, ты думал здесь что-то будет?',
