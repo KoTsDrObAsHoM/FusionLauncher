@@ -3,7 +3,7 @@ import { api, window } from '../config'
 
 await build({
     config: {
-    appId: "ru.aurora.launcher",
+    appId: "ru.fusion.launcher",
     productName: window.title,
     electronLanguages: [
         "en-US"
